@@ -47,10 +47,23 @@ Here are a few projects I'm proud of:
 ---
 
 ## 📫 Let's Connect!
-- <img src="https://img.icons8.com/ios/452/email.png" alt="Email" width="20" style="backgorund-color=#fff"/> **Email**: [work.shubhamsahu@gmail.com](mailto:work.shubhamsahu@gmail.com)
-- <img src="https://img.icons8.com/ios/452/linkedin.png" alt="LinkedIn" width="20"/> **LinkedIn**: [linkedin.com/in/shubham-web](https://www.linkedin.com/in/shubham-web/)
-- <img src="https://img.icons8.com/ios/452/instagram-new.png" alt="Instagram" width="20"/> **Instagram**: [@shubham._.o2](https://www.instagram.com/shubham._.o2/)
-- <img src="https://img.icons8.com/ios/452/twitter.png" alt="Twitter" width="20"/> **Twitter/X**: [@py_code_](https://x.com/py_code_)
+<p>
+  <a href="https://github.com/Shubham-07x/" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://x.com/py_code_" target="_blank">
+    <img alt="Twitter X" src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/shubham-web" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="mailto:work.shubhamsahu@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/email-%2300A859.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/shubham._.o2/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
