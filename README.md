@@ -67,8 +67,3 @@ Here are a few projects I'm proud of:
 
 ---
 
-## 🔥 Fun Facts
-- 🧠 I believe in lifelong learning and love exploring new tech trends.
-- 🎨 Outside of coding, I enjoy experimenting with UI/UX design.
-- ☕ A good cup of Tea fuels my productivity!
-
