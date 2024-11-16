@@ -65,5 +65,3 @@ Here are a few projects I'm proud of:
   </a>
 </p>
 
----
-
