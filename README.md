@@ -33,9 +33,17 @@ Here are a few projects I'm proud of:
 | [Employee Attendance and Management System](https://github.com/Shubham-07x/employee-management) | A web app with separate login routes for employees (profile, attendance) and administrators (dashboard, employee management). | React, Node.js, Express, PostgreSQL, HTML, CSS, JavaScript |
 | [Jawahar R-ABI](https://jawaharr-abi.com)                              | Website for an agribusiness incubation center to support startups.                          | WordPress                               |
 | [Sales Booster Ad](https://salesboosterad.com)                                | A platform for video advertisement agency to boost sales.                            | WordPress                               |
-| [Kashios Foods](https://kashiosfoods.com)                              | E-commerce platform for food products.                                                     | WordPress                               |
+| [Kashios Foods](https://kashiosfoods.com)                              | E-commerce platform for food products.                                                      | WordPress                               |
 | [Centerclif Structures](https://centerclif.com)                        | Corporate website for a construction and engineering business.                              | WordPress                               |
 | [Siya Diamond](https://siyadiamond.com)                                | Online storefront for diamond and jewelry products.                                         | WordPress                               |
+| [Soni Dental Care](https://sonidentalcare.in/)                                | Dental Clinic with online appointment system.                                  | WordPress                               |
+| [Health Buddy Diagnostic Private Limited](https://health-buddy.in/)                                | Health Care Services.                                         | WordPress     |
+| [Dastak Bio Diesel](https://dastakbiodiesel.com/)                                | Dastak DROP in BIOFUEL                                         | WordPress                       |
+| [iBloom Honey](https://ibloom.co.in/)                                | A Honey Website                                        | WordPress                               |
+| [Shree Purcham Engineering](https://spcel.in/)                                |Stainless Steel and Mild Steel Solutions.                                    | WordPress                               |
+| [Vedagam Ayurveda](https://vedagam.com/)                                | Ayurvedic Medicines                                       | WordPress                               |
+| [Bidua Constructions](https://biduaconstructions.com/)                                | Construction and Engineering Business.                                         | WordPress                |
+| [Promofox Digital](https://promofox.in/)                                | Website for a Digital Marketing Agency                                        | WordPress                               |
 
 ---
 
