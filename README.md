@@ -44,6 +44,8 @@ Here are a few projects I'm proud of:
 | [Vedagam Ayurveda](https://vedagam.com/)                                | Ayurvedic Medicines                                       | WordPress                               |
 | [Bidua Constructions](https://biduaconstructions.com/)                                | Construction and Engineering Business.                                         | WordPress                |
 | [Promofox Digital](https://promofox.in/)                                | Website for a Digital Marketing Agency                                        | WordPress                               |
+| [Thai Boxing National Brand Ambassador Madhya Pradesh](https://thaiboxinginba.com/)                                | Thai Boxing National Brand Ambassador Madhya Pradesh          | WordPress               |
+| [Archna Sari](https://archnasari.com/)                                | E-commerce website for saree business                                   | WordPress                               |
 
 ---
 
