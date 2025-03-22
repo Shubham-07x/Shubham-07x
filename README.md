@@ -30,7 +30,7 @@ Here are a few projects I'm proud of:
 
 | Project Name                                                           | Description                                                                                 | Tech Stack                              |
 |------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------|
-| [Employee Attendance and Management System](https://github.com/Shubham-07x/employee-management) | A web app with separate login routes for employees (profile, attendance) and administrators (dashboard, employee management). | React, Node.js, Express, PostgreSQL, HTML, CSS, JavaScript |
+| [Employee and Project Management System](https://github.com/Shubham-07x/employee-management) | A web app for Employee Attendance and Project Management. | React, Node.js, Express, PostgreSQL, HTML, CSS, JavaScript |
 | [Jawahar R-ABI](https://jawaharr-abi.com)                              | Website for an agribusiness incubation center to support startups.                          | WordPress                               |
 | [Sales Booster Ad](https://salesboosterad.com)                                | A platform for video advertisement agency to boost sales.                            | WordPress                               |
 | [Kashios Foods](https://kashiosfoods.com)                              | E-commerce platform for food products.                                                      | WordPress                               |
