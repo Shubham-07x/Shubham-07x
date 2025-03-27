@@ -28,25 +28,25 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for craftin
 ## 📂 Featured Projects
 Here are a few projects I'm proud of:
 
-| Project Name                                                           | Description                                                                                 | Tech Stack                              |
-|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------|
-| [Employee and Project Management System](https://github.com/Shubham-07x/employee-management) | A web app for Employee Attendance and Project Management. | React, Node.js, Express, PostgreSQL, HTML, CSS, JavaScript |
-| [Jawahar R-ABI](https://jawaharr-abi.com)                              | Website for an agribusiness incubation center to support startups.                          | WordPress                               |
-| [Sales Booster Ad](https://salesboosterad.com)                                | A platform for video advertisement agency to boost sales.                            | WordPress                               |
-| [Kashios Foods](https://kashiosfoods.com)                              | E-commerce platform for food products.                                                      | WordPress                               |
-| [Centerclif Structures](https://centerclif.com)                        | Corporate website for a construction and engineering business.                              | WordPress                               |
-| [Siya Diamond](https://siyadiamond.com)                                | Online storefront for diamond and jewelry products.                                         | WordPress                               |
-| [Soni Dental Care](https://sonidentalcare.in/)                                | Dental Clinic with online appointment system.                                  | WordPress                               |
-| [Health Buddy Diagnostic Private Limited](https://health-buddy.in/)                                | Health Care Services.                                         | WordPress     |
-| [Dastak Bio Diesel](https://dastakbiodiesel.com/)                                | Dastak DROP in BIOFUEL                                         | WordPress                       |
-| [iBloom Honey](https://ibloom.co.in/)                                | A Honey Website                                        | WordPress                               |
-| [Shree Purcham Engineering](https://spcel.in/)                                |Stainless Steel and Mild Steel Solutions.                                    | WordPress                               |
-| [Vedagam Ayurveda](https://vedagam.com/)                                | Ayurvedic Medicines                                       | WordPress                               |
-| [Bidua Constructions](https://biduaconstructions.com/)                                | Construction and Engineering Business.                                         | WordPress                |
-| [Promofox Digital](https://promofox.in/)                                | Website for a Digital Marketing Agency                                        | WordPress                               |
-| [Thai Boxing National Brand Ambassador Madhya Pradesh](https://thaiboxinginba.com/)                                | Thai Boxing National Brand Ambassador Madhya Pradesh          | WordPress               |
-| [Archna Sari](https://archnasari.com/)                                | E-commerce website for saree business                                   | WordPress                               |
-| [DDS Buildcon](https://ddsbuildcon.com/)                                | Construction business website                                  | WordPress                               |
+| #  | Project Name | Description | Tech Stack |
+|----|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------|
+| 1  | [Employee and Project Management System](https://github.com/Shubham-07x/employee-management) | A web app for Employee Attendance and Project Management. | React, Node.js, Express, PostgreSQL, HTML, CSS, JavaScript |
+| 2  | [Jawahar R-ABI](https://jawaharr-abi.com) | Website for an agribusiness incubation center to support startups. | WordPress |
+| 3  | [Sales Booster Ad](https://salesboosterad.com) | A platform for a video advertisement agency to boost sales. | WordPress |
+| 4  | [Kashios Foods](https://kashiosfoods.com) | E-commerce platform for food products. | WordPress |
+| 5  | [Centerclif Structures](https://centerclif.com) | Corporate website for a construction and engineering business. | WordPress |
+| 6  | [Siya Diamond](https://siyadiamond.com) | Online storefront for diamond and jewelry products. | WordPress |
+| 7  | [Soni Dental Care](https://sonidentalcare.in/) | Dental Clinic with an online appointment system. | WordPress |
+| 8  | [Health Buddy Diagnostic Pvt. Ltd.](https://health-buddy.in/) | Health care services platform. | WordPress |
+| 9  | [Dastak Bio Diesel](https://dastakbiodiesel.com/) | Dastak DROP-in BIOFUEL service. | WordPress |
+| 10 | [iBloom Honey](https://ibloom.co.in/) | Website for a premium honey brand. | WordPress |
+| 11 | [Shree Purcham Engineering](https://spcel.in/) | Stainless steel and mild steel solutions. | WordPress |
+| 12 | [Vedagam Ayurveda](https://vedagam.com/) | Online store for Ayurvedic medicines. | WordPress |
+| 13 | [Bidua Constructions](https://biduaconstructions.com/) | Construction and engineering business website. | WordPress |
+| 14 | [Promofox Digital](https://promofox.in/) | Website for a digital marketing agency. | WordPress |
+| 15 | [Thai Boxing National Brand Ambassador MP](https://thaiboxinginba.com/) | Official site for Thai Boxing National Brand Ambassador, Madhya Pradesh. | WordPress |
+| 16 | [Archna Sari](https://archnasari.com/) | E-commerce website for a saree business. | WordPress |
+| 17 | [DDS Buildcon](https://ddsbuildcon.com/) | Construction business website. | WordPress |
 
 ---
 
