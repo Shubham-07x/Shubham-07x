@@ -46,6 +46,7 @@ Here are a few projects I'm proud of:
 | [Promofox Digital](https://promofox.in/)                                | Website for a Digital Marketing Agency                                        | WordPress                               |
 | [Thai Boxing National Brand Ambassador Madhya Pradesh](https://thaiboxinginba.com/)                                | Thai Boxing National Brand Ambassador Madhya Pradesh          | WordPress               |
 | [Archna Sari](https://archnasari.com/)                                | E-commerce website for saree business                                   | WordPress                               |
+| [DDS Buildcon](https://ddsbuildcon.com/)                                | Construction business website                                  | WordPress                               |
 
 ---
 
