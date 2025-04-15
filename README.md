@@ -73,7 +73,7 @@ Here are a few projects I'm proud of:
   <a href="mailto:work.shubhamsahu@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/email-%2300A859.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/shubham._.o2/" target="_blank">
+  <a href="https://www.instagram.com/shubham.o11/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </p>
