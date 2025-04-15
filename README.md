@@ -47,6 +47,8 @@ Here are a few projects I'm proud of:
 | 15 | [Thai Boxing National Brand Ambassador MP](https://thaiboxinginba.com/) | Official site for Thai Boxing National Brand Ambassador, Madhya Pradesh. | WordPress |
 | 16 | [Archna Sari](https://archnasari.com/) | E-commerce website for a saree business. | WordPress |
 | 17 | [DDS Buildcon](https://ddsbuildcon.com/) | Construction business website. | WordPress |
+| 18 | [PSN Tours](https://psntours.com/) | Traveling and booking agency website. | WordPress |
+| 19 | [SYJ Roots](https://syjroots.com/) | Skill Training Centre portfolio website. | WordPress |
 
 ---
 
